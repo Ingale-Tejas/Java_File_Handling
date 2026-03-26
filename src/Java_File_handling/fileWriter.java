@@ -42,4 +42,3 @@ public class fileWriter {
 //    }
 //}
 //using FileOutputStream
-FileOutputStream
