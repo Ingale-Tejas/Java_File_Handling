@@ -2,7 +2,7 @@ package Java_File_handling;
 import java.io.*;
 public class createFile {               // for with-out try-catch block use "throws" keyword
     public static void main(String[] args) /* throws IOException, InterruptedException  */ {
-       File f = new File("D:\\6. TEJAS\\SUBJECTS\\Files\\first.txt");
+       File f = new File("D:\\6. TEJAS\\SUBJECTS\\Files\\first2.txt");
 //        File f = new File( "D:\\6. TEJAS\\SUBJECTS\\java_file_handling\\File_Reader\\file1.txt");
 
         try {
